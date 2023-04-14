@@ -1,0 +1,46 @@
+[
+    {
+        "firstname":"สมชาย",
+        "lastname":"แซ่ตั้ง",
+        "nickname":"ชาย",
+        "email":"oo@gmail.com",
+        "phone":"089123456",
+        "houseNo":"44",
+        "villageNo":"8",
+        "subDistrict":"เมือง",
+        "district":"เมือง",
+        "province":"มหาสารคาม",
+        "postalCode":"44150",
+        "id":"122" 
+    },
+    {
+        "firstname":"วราลัก",
+        "lastname":"ภูภัครดี",
+        "nickname":"รัก",
+        "email":"luk@gmail.com",
+        "phone":"0851249374",
+        "houseNo":"44",
+        "villageNo":"8",
+        "subDistrict":"เมือง",
+        "district":"เมือง",
+        "province":"มหาสารคาม",
+        "postalCode":"44150",
+        "id":"122" 
+    },
+    {
+        "firstname":"พรพิสุทธิ์",
+        "lastname":"ภูพุทธา",
+        "nickname":"ผัก",
+        "email":"phak@gmail.com",
+        "phone":"089123456",
+        "houseNo":"222",
+        "villageNo":"5",
+        "subDistrict":"หนองแปน",
+        "district":"กมลาไสย",
+        "province":"กาฬสินธุ์",
+        "postalCode":"46130",
+        "id":"122" 
+    }
+
+    
+]
